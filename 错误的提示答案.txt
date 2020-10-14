@@ -1,0 +1,10 @@
+error:i前面不是实数
+error:i后面不能接左括号
+error:右括号不匹配
+error:+后不能接-
+error:n次幂的指数部分不能是虚数
+error:除数不能为0
+error:右括号后不能为实数
+error:i前面不是实数
+error:i后面不能接实数
+error:取模号不匹配
